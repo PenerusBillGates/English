@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1683528746,
+	"version": 1683532967,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -50,10 +50,6 @@
 		"images/sprite4-sheet0.png",
 		"images/sprite5-sheet0.png",
 		"images/sprite6-sheet0.png",
-		"images/sprite6-sheet1.png",
-		"images/sprite6-sheet2.png",
-		"images/sprite6-sheet3.png",
-		"images/sprite6-sheet4.png",
 		"images/teksnavigasi-sheet0.png",
 		"images/teksnavigasi-sheet1.png",
 		"images/tiledbackground.png",
@@ -157,10 +153,10 @@
 		"project.mp4",
 		"video.mp4",
 		"video.webm",
+		"bradybunch.css",
 		"bradybunchremastered.svg",
 		"bradybunchremastered.ttf",
 		"bradybunchremastered.woff",
-		"bradybunchremastered.woff2",
-		"bradybunch.css"
+		"bradybunchremastered.woff2"
 	]
 }
