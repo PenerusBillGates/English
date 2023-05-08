@@ -1,6 +1,7 @@
-@font-face {font-family: "Brady Bunch Remastered";
-    src: url("http://http://interaktifbahasainggris.online/bradybunchremastered.woff2") format("woff2"), /* chrome firefox */
-    url("http://http://interaktifbahasainggris.online/bradybunchremastered.woff") format("woff"), /* chrome firefox */
-    url("http://http://interaktifbahasainggris.online/bradybunchremastered.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
-    url("http://http://interaktifbahasainggris.online/bradybunchremastered.svg") format("svg"); /* iOS 4.1- */
-}
+@font-face {
+	font-family: "Brady Bunch Remastered"; 
+	src: url("/bradybunchremastered.woff2") format("woff2"), 
+	url("/bradybunchremastered.woff") format("woff"), 
+	url("/bradybunchremastered.ttf") format("truetype"), 
+	url("/bradybunchremastered.svg#Brady Bunch Remastered") format("svg");
+	}
