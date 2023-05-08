@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1683350651,
+	"version": 1683528746,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -128,6 +128,10 @@
 		"images/level-sheet0.png",
 		"images/level-sheet1.png",
 		"images/level-sheet2.png",
+		"images/tiledbackground5.png",
+		"images/tiledbackground6.png",
+		"images/tiledbackground7.png",
+		"images/tiledbackground8.png",
 		"media/tombol.m4a",
 		"media/tombol.ogg",
 		"media/broccoli.ogg",
@@ -152,6 +156,11 @@
 		"loading-logo.png",
 		"project.mp4",
 		"video.mp4",
-		"video.webm"
+		"video.webm",
+		"bradybunchremastered.svg",
+		"bradybunchremastered.ttf",
+		"bradybunchremastered.woff",
+		"bradybunchremastered.woff2",
+		"bradybunch.css"
 	]
 }
