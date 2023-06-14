@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1686224052,
+	"version": 1686715216,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,6 +25,7 @@
 		"images/loadingbar-sheet0.png",
 		"images/tekspetunjuk-sheet0.png",
 		"images/tekspetunjuk-sheet1.png",
+		"images/tekspetunjuk-sheet2.png",
 		"images/hitammenu.png",
 		"images/judulbuah-sheet0.png",
 		"images/karakter-sheet0.png",

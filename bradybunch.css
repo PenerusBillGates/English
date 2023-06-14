@@ -1,7 +1,0 @@
-@font-face {
-	font-family: "Brady Bunch Remastered"; 
-	src: url("/bradybunchremastered.woff2") format("woff2"), 
-	url("/bradybunchremastered.woff") format("woff"), 
-	url("/bradybunchremastered.ttf") format("truetype"), 
-	url("/bradybunchremastered.svg#Brady Bunch Remastered") format("svg");
-	}
