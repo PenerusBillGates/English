@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1687240259,
+	"version": 1687418428,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -130,6 +130,7 @@
 		"images/sprite-sheet1.png",
 		"images/sprite2-sheet0.png",
 		"images/hitramlevel5-sheet0.png",
+		"images/judul-sheet0.png",
 		"media/tombol.m4a",
 		"media/tombol.ogg",
 		"media/broccoli.ogg",
